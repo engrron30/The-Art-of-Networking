@@ -16,7 +16,7 @@ Let's first build a simple network containing two devices: PC1 and PC2. We need 
 
 To build this in Packet Tracer, place 1 PC and 1 Laptop. Connect them with copper cross-over cable (denoted by a dashed line). Configure your PC and laptop IP address with value of 192.168.1.1/24 and 192.168.1.2/24 respectively by opening the __Config__ tab when you click the PC icon like the image below.
 
-![image](Images/01-Your-First-Topology/02-Adding-IP-address-to-PC.png)
+![image](Images/02-Configure-IP-Address-to-PC.png)
 
 ---
 
