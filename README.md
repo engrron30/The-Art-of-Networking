@@ -29,7 +29,7 @@ Nice! You have created a working network. What if we would like to introduce ano
 
 Let's say, we managed to extend the number of Ethernet ports of each PC. And imagine we assumed we are able to connect 3 PCs. 5 PCs. 10 PCs. The cable management could be very messy! Plus Ethernet ports of PCs are limited.
 
-![image](Images/01-Your-First-Topology/05-Messy_Topology.png)
+![image](Images/01-Your-First-Topology/05-Messy-Topology.png)
 
 That's why someone invented a switch!
 
