@@ -12,6 +12,8 @@ Networking just means building a network between devices. This means building a 
 
 Let's first build a simple network containing two devices: PC1 and PC2. We need to make a communication link between the two by just building the network illustration below (I use Packet Tracer to build this figure):
 
+![image](https://github.com/user-attachments/assets/5c549a6e-e382-4934-9465-11ef702cf8b9)
+
 
 ---
 
