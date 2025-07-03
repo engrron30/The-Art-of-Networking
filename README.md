@@ -4,7 +4,7 @@ Networking is the process of establishing communication links between devices. T
 
 ## 📚 Contents
 - [Your First Simple Topology](#your-first-simple-topology)
-- [Introducing-a-Switch](#introducing-a-switch)
+- [Introducing-a-Hub](#introducing-a-hub)
 - [Disclaimer](#disclaimer)
 
 ## Your First Simple Topology
@@ -38,5 +38,7 @@ That's why someone invented a hub!
 ---
 
 ## Disclaimer
+
+I'm inspired with The-Art-of-Command-Line repo. So, why not create one for Networking?
 
 There are many things to learn in networking. You can learn one step at a time. Networking is so complex and complicated!
