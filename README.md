@@ -7,18 +7,6 @@ Networking is the process of establishing communication links between devices. T
 - [Introducing-a-Switch](#introducing-a-switch)
 - [Disclaimer](#disclaimer)
 
----
-
-## THEORY 01: Binary Numbers
-### How to Turn On and Off My Neighbor's Light Switch
-
----
-
-## THEORY 02: IPv4 Addressing Basics
-### Have You Seen My Dog (Last Seen in 192.168.1.69)
-
----
-
 ## Your First Simple Topology
 
 Let's first build a simple network containing two devices: PC1 and Laptop1. We need to make a communication link between the two by just building the network illustration below (I use Packet Tracer to build this figure):
@@ -41,11 +29,11 @@ Let's say, we managed to extend the number of Ethernet ports of each PC. And ima
 
 ![image](Images/01-Your-First-Topology/05-Messy-Topology.png)
 
-That's why someone invented a switch!
+That's why someone invented a hub!
 
 ---
 
-## Introducing a Switch
+## Introducing a Hub (not the one you're thinking of)
 
 ---
 
