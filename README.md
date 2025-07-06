@@ -3,11 +3,11 @@
 Networking is the process of establishing communication links between devices. These physical or logical connections form what is known as a network topology. I'll try to dicuss the basic one step at the time.
 
 ## 📚 Contents
-- [Your First Simple Topology](#your-first-simple-topology)
+- [Building-a-Network-of-2-PCs](#building-a-network-of-2-pcs)
 - [Introducing-a-Hub](#introducing-a-hub)
 - [Disclaimer](#disclaimer)
 
-## Your First Simple Topology
+## Building a Network of 2 PCs
 
 Let's first build a simple network containing two devices: PC1 and Laptop1. We need to make a communication link between the two by just building the network illustration below (I use Packet Tracer to build this figure):
 
@@ -33,7 +33,11 @@ That's why someone invented a hub!
 
 ---
 
-## Introducing a Hub (not the one you're thinking of)
+## Introducing a Hub
+
+Let's focus on the fact that our ports are limited. We cannot plug more PCs to a PC by just directly plugging an Ethernet cable to it. This is the major role of the __HUB__ device. It is often referred as port extenders or even repeaters (to repeat the packets coming from a port to another port).
+
+In networking, a hub is a device that links multiple computers and devices together. Hubs can also be referred to as repeaters or concentrators, and they serve as the center of a local area network (LAN). In a hub, each connected device is on the same subnet and receives all data sent to the hub. 
 
 ---
 
