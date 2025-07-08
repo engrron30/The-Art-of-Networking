@@ -1,6 +1,6 @@
 # The-Art-of-Networking
 
-Networking is the process of establishing communication links between devices. These physical or logical connections form what is known as a network topology. I'll try to dicuss the basic one step at the time.
+Networking is the process of establishing communication links between devices. These physical or logical connections form what is known as a network topology. Let's try to dicuss the basics one step at the time.
 
 ## 📚 Contents
 - [Building-a-Network-of-2-PCs](#building-a-network-of-2-pcs)
