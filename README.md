@@ -39,6 +39,14 @@ Let's focus on the fact that our ports are limited. We cannot plug more PCs to a
 
 In networking, a hub is a device that links multiple computers and devices together. Hubs can also be referred to as repeaters or concentrators, and they serve as the center of a local area network (LAN). In a hub, each connected device is on the same subnet and receives all data sent to the hub. 
 
+Let's say we have three PCs to connect at the same time with different IPs designated to them. By connecting them with a hub, every single PC can ping each other.
+
+TO-DO: Provide snapshot of three PCs connected via hub.
+
+It's cool, right? If your hub contains 24 port, then you can connect up to 24 PCs. If it contains 48 port, then you can connect up to 48 PCs. Very powerful, right?
+
+TO-Do: Provide snapshot of 24-port Hub with 24 PCs connected to each port.
+
 ---
 
 ## Disclaimer
