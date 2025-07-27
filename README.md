@@ -51,6 +51,23 @@ Let's try the powerful tool of Packet Tracer, the simulator. This tool allows to
 
 TO-DO: Provide snapshot of three PC topology with hub with simulate in the tab.
 
+With the two PCs connected with the hub, ping the third PC at the same time. Observe what will happen to the packets.
+
+
+Did the packets reach the third PC? No, they just burned based on the Packet Tracer simulator. What happened is those packets got collided as they both transmitted in the same
+wire or cable. Thus, ping from PC1 and PC2 collided with each other making the packets corrupted.
+
+So, we don't use hub?
+
+---
+
+## Introducing a Switch
+
+
+---
+
+## Introducing a Router
+
 ---
 
 ## Disclaimer
