@@ -45,4 +45,4 @@ In networking, a hub is a device that links multiple computers and devices toget
 
 I'm inspired with The-Art-of-Command-Line repo. So, why not create one for Networking?
 
-There are many things to learn in networking. You can learn one step at a time. Networking is so complex and complicated!
+There are many things to learn in networking. There is no need to learn everything at the same time!
