@@ -45,7 +45,11 @@ TO-DO: Provide snapshot of three PCs connected via hub.
 
 It's cool, right? If your hub contains 24 port, then you can connect up to 24 PCs. If it contains 48 port, then you can connect up to 48 PCs. Very powerful, right?
 
-TO-Do: Provide snapshot of 24-port Hub with 24 PCs connected to each port.
+TO-DO: Provide snapshot of 24-port Hub with 24 PCs connected to each port.
+
+Let's try the powerful tool of Packet Tracer, the simulator. This tool allows to simulate the environment to run in slow-motion for us to observe the life of a packet. Just simply build the three-PC topology with hub and enter simulate.
+
+TO-DO: Provide snapshot of three PC topology with hub with simulate in the tab.
 
 ---
 
