@@ -63,6 +63,7 @@ So, we don't use hub?
 
 ## Introducing a Switch
 
+A network switch is networking hardware that connects wired devices on a network by using packet switching to receive and intelligently forward data to the destination device. It is a crucial component in modern networking infrastructure. It serves as a central point to which all devices in a network can connect.
 
 ---
 
