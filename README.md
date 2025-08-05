@@ -69,6 +69,8 @@ A network switch is networking hardware that connects wired devices on a network
 
 ## Introducing a Router
 
+A router is a networking device that forwards data packets between computer networks. It acts as a central hub, directing network traffic and ensuring data reaches the intended devices. Routers can connect local area networks (LANs), like those in a home or office, and also connect them to the internet (wide area network or WAN). 
+
 ---
 
 ## Disclaimer
